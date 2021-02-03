@@ -12,3 +12,6 @@ HTML
 <li>
 CSS
 </li>
+____________________________________________
+O projeto pronto pode ser acessado em:
+![projeto](https://profile-card-component-matheuspedrosoo.vercel.app/)
