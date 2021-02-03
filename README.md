@@ -1,6 +1,6 @@
 # Desafio Frontend Mentor - Profile card component
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Profile card component coding challenge](https://github.com/matheuspedrosoo/profile-card-component/blob/main/images/desktop-preview.jpg?raw=true)
 
 O desafio encontra-se no site: 
 [Frontend Mentor](https://www.frontendmentor.io) 
@@ -12,3 +12,7 @@ HTML
 <li>
 CSS
 </li>
+____________________________________________
+
+O projeto pronto pode ser acessado no:
+[site](https://profile-card-component-matheuspedrosoo.vercel.app/)
